@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Welcome, I am Janay Giles </h1>
+<h1 align="center">WELCOME </h1>
 
 
 <p align="center">
