@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <img src ="https://static.vecteezy.com/system/resources/previews/000/694/606/original/abstract-colorful-geometric-banner-template-background-vector.jpg">
-</div>
 
-
-<h1 align="center">WELCOME </h1>
 
 
 <p align="center">
