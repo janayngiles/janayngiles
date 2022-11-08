@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/002/558/997/large_2x/modern-abstract-header-with-black-and-gold-layers-above-each-other-modern-design-banner-for-your-business-illustration-with-oblique-stripes-and-lines-vector.jpg"/>
+  <https://static.vecteezy.com/system/resources/previews/000/694/606/original/abstract-colorful-geometric-banner-template-background-vector.jpg>
 </div>
 
 
