@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <https://static.vecteezy.com/system/resources/previews/000/694/606/original/abstract-colorful-geometric-banner-template-background-vector.jpg>
+  <a href ="https://static.vecteezy.com/system/resources/previews/000/694/606/original/abstract-colorful-geometric-banner-template-background-vector.jpg">
 </div>
 
 
